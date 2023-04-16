@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **C.Junior**
 - 👀 I’m interested in always learn.
-- 🌱 I’m currently learning HTML, CSS language (for while) and MySql.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Java, MySql.
 - 💞️ I’m looking to collaborate on anything that makes me learn more.
 - 📫 How to reach me ...
 
