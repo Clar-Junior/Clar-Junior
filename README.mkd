@@ -1,11 +1,16 @@
+# Olá Pessoal! 🖖
+
+- Sou o **.Junior**, desenvolvedor.
+- Interessado em sempre aprender.
+- Atualmente aprendendo muitas tecnologias, como: HTML, CSS, Javascript, Bootstrap, Banco de dados relacional e aumentando.
+- Procuro colaborar com qualquer coisa que me faça aprender mais.
+
+
 # Hello everyone! 🖖
  
- I’m **C.Junior**, developer.  
-  
+ I’m **C.Junior**, developer.    
 -I’m interested in always learn.
-
--I’m currently learning a lot technologies.
-
+-I’m currently learning a lot technologies, as: HTML, CSS, Javascript, Bootstrap, relational database and increasing..
 -I’m looking to collaborate on anything that makes me learn more.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
