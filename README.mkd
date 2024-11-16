@@ -1,6 +1,6 @@
 # Olá Pessoal! 🖖
 
-- Sou o **.Junior**, desenvolvedor.
+- Sou o **Junior**, desenvolvedor.
 - Interessado em sempre aprender.
 - Atualmente aprendendo muitas tecnologias, como: HTML, CSS, Javascript, Bootstrap, Banco de dados relacional e aumentando.
 - Procuro colaborar com qualquer coisa que me faça aprender mais.
