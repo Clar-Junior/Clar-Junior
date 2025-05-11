@@ -2,7 +2,7 @@
 
 - Sou o **Junior**, desenvolvedor.
 - Interessado em sempre aprender.
-- Atualmente aprendendo muitas tecnologias, como: HTML, CSS, Javascript, Bootstrap, Banco de dados relacional e aumentando.
+- Atualmente aprendendo muitas tecnologias, como: HTML, CSS, Javascript, Bootstrap, Tailwind, React, Git, Banco de dados relacional e aumentando.
 - Procuro colaborar com qualquer coisa que me faça aprender mais.
 
 
@@ -10,14 +10,17 @@
  
  I’m **C.Junior**, developer.    
 -I’m interested in always learn.
--I’m currently learning a lot technologies, as: HTML, CSS, Javascript, Bootstrap, relational database and increasing..
+-I’m currently learning a lot technologies, as: HTML, CSS, Javascript, Bootstrap, Tailwind, React, Git, relational database and increasing..
 -I’m looking to collaborate on anything that makes me learn more.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!---
 Clar-Junior/Clar-Junior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
